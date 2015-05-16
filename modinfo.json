@@ -1,0 +1,15 @@
+ {
+    "enabled" : true,
+    "context" : "client",
+    "identifier" : "com.heiz.aurora_artyUI",
+	"category": ["units","balance","UI"],
+    "display_name" : "Aurora-Arty UI",
+    "description" : "New Rapidfire Artys. ",
+	"date" : "2015/03/13",
+    "forum": "",
+	"dependencies": [ "com.heiz.aurora_arty"],
+	"icon" : "",
+    "author" : "Heizmeister",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
