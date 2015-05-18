@@ -6,10 +6,9 @@
     "display_name" : "Aurora-Arty UI",
     "description" : "New Rapidfire Artys. ",
 	"date" : "2015/03/13",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
 	"dependencies": [ "com.heiz.aurora_arty"],
-	"icon" : "",
     "author" : "Heizmeister",
-    "version" : "1.0",
+    "version" : "1.1",
     "signature" : "(not yet implemented)"
 }
