@@ -4,12 +4,12 @@
     "identifier" : "com.heiz.aurora_artyUI",
 	"category": ["units","balance","UI"],
     "display_name" : "Aurora-Arty UI",
-    "description" : "New Rapidfire Artys. Please provide any feedback in the forum thread.",
-	"date" : "2015/07/07",
+    "description" : "New Rapidfire Artys. This mod enables the icons.",
+	"date" : "2016/06/01",
     "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
 	"dependencies": [ "com.heiz.aurora_arty"],
     "author" : "Heizmeister",
-    "version" : "1.4",
-	"priority": 100,
+    "version" : "1.5",
+	"priority": 10,
     "signature" : "(not yet implemented)"
 }
