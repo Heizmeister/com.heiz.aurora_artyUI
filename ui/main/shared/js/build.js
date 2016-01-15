@@ -71,8 +71,8 @@ var Build = (function() {
                 "/pa/units/land/artillery_short/artillery_short.json": ["combat", 14],
                 "/pa/units/sea/torpedo_launcher/torpedo_launcher.json": ["combat", 15],
                 "/pa/units/orbital/ion_defense/ion_defense.json": ["combat", 16],
-				"/pa/units/land/artillery_morningstar/artillery_morningstar.json": ["combat", 11],
-				"/pa/units/land/artillery_comet/artillery_comet.json": ["combat", 5],
+				"/pa/units/land/artillery_comet/artillery_comet.json":["combat", 1],
+				"/pa/units/land/artillery_morningstar/artillery_morningstar.json":["combat", 5],
 
 
                 "/pa/units/land/tank_nuke/tank_nuke.json": ["vehicle", 0],
