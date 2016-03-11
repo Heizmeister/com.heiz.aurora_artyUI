@@ -1,4 +1,4 @@
-// !LOCNS:galactic_war
+
 define(['shared/gw_common'], function (GW) {
     return {
         visible: function(params) { return true; },

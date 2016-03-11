@@ -32,10 +32,12 @@ define(['shared/gw_common'], function (GW) {
         },
         buff: function(inventory, params) {
             inventory.addUnits([
-                '/pa/units/land/artillery_comet/artillery_comet.json',
-                '/pa/units/land/artillery_morningstar/artillery_morningstar.json',
+                '/pa/units/land/artillery_comet/artillery_comet.json',             
                 '/pa/units/land/bot_sun/bot_sun.json',
-				'/pa/units/land/tank_heavy_meteor/tank_heavy_meteor.json'
+				'/pa/units/land/artillery_morningstar/artillery_morningstar.json',
+				'/pa/units/land/tank_heavy_meteor/tank_heavy_meteor.json',
+				'/pa/units/sea/bolide/bolide.json'
+				
             ]);
         },
         dull: function(inventory) {
