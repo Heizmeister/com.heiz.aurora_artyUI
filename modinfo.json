@@ -5,11 +5,12 @@
 	"category": ["units","balance","UI","Galactic-War","artillery","client"],
     "display_name" : "Aurora-Arty UI",
     "description" : "New Rapidfire Artys. This mod enables the icons and provides Galactic War support.",
-	"date" : "2016/04/10",
+	"date" : "2016/05/27",
     "forum": "https://forums.uberent.com/threads/rel-server-units-aurora-artillery.71183/",
+	"icon": "http://fs5.directupload.net/images/160427/28nxspez.png",
 	"dependencies": [ "com.heiz.aurora_arty"],
     "author" : "Heizmeister , Mirolog",
-    "version" : "1.7",
+    "version" : "1.8",
 	"priority": 10,
 	"scenes": {
     "global_mod_list": [
