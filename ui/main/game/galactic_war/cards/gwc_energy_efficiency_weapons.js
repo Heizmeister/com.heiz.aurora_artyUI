@@ -36,9 +36,9 @@ define(['shared/gw_common'], function (GW) {
                 '/pa/units/air/bomber/bomber_tool_weapon.json',
                 '/pa/units/air/bomber_adv/bomber_adv_tool_weapon.json',
                 '/pa/units/sea/missile_ship/missile_ship_tool_weapon.json',
-				'/pa/units/orbital/orbital_armageddon/orbital_armageddon.json',
-				'/pa/units/land/artillery_comet/artillery_comet.json',
-                '/pa/units/land/artillery_morningstar/artillery_morningstar.json',
+				'/pa/units/orbital/orbital_armageddon/orbital_armageddon_tool_weapon.json',
+				'/pa/units/land/artillery_comet/artillery_comet_tool_weapon.json',
+                '/pa/units/land/artillery_morningstar/artillery_morningstar_tool_weapon.json',
                 '/pa/tools/uber_cannon/uber_cannon.json'
             ];
             var mods = [];

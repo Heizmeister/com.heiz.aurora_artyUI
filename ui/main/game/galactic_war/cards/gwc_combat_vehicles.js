@@ -87,6 +87,8 @@ define(['shared/gw_common'], function (GW) {
                 '/pa/units/land/tank_heavy_armor/tank_heavy_armor_ammo.json',
                 '/pa/units/land/tank_hover/tank_hover_ammo.json',
                 '/pa/units/land/tank_flak/tank_flak_ammo.json',
+				'/pa/units/land/tank_heavy_meteor/tank_heavy_meteor_ammo.json'
+				
             ];
             var modAmmo = function (ammo) {
                 mods.push({

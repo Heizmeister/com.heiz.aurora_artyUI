@@ -34,8 +34,8 @@ define(['shared/gw_common'], function (GW) {
             var units = [
                 '/pa/units/land/artillery_short/artillery_short_ammo.json',
                 '/pa/units/land/artillery_long/artillery_long_ammo.json',
-				 '/pa/units/land/artillery_comet/artillery_comet.json',
-                '/pa/units/land/artillery_morningstar/artillery_morningstar.json'
+				'/pa/units/land/artillery_comet/artillery_comet_ammo.json',
+                '/pa/units/land/artillery_morningstar/artillery_morningstar_ammo.json'
             ];
             var mods = [];
             var modUnit = function(unit) {
@@ -56,8 +56,8 @@ define(['shared/gw_common'], function (GW) {
             var weaps = [
                 '/pa/units/land/artillery_short/artillery_short_tool_weapon.json',
                 '/pa/units/land/artillery_long/artillery_long_tool_weapon.json',
-				 '/pa/units/land/artillery_comet/artillery_comet.json',
-                '/pa/units/land/artillery_morningstar/artillery_morningstar.json',
+				'/pa/units/land/artillery_comet/artillery_comet_tool_weapon.json',
+                '/pa/units/land/artillery_morningstar/artillery_morningstar_tool_weapon.json',
                 '/pa/units/land/artillery_unit_launcher/artillery_unit_launcher.json'
             ];
             var modWeap = function (weap) {

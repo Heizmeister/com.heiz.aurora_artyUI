@@ -115,7 +115,7 @@ define(['shared/gw_common'], function (GW) {
                 '/pa/units/land/air_defense_adv/air_defense_adv_ammo.json',
                 '/pa/units/land/laser_defense_adv/laser_defense_adv_ammo.json',
                 '/pa/units/land/tactical_missile_launcher/tactical_missile_launcher_ammo.json',
-                '/pa/units/orbital/ion_defense/ion_defense_ammo.json',
+                '/pa/units/orbital/ion_defense/ion_defense_ammo.json'
             ];
             var modAmmo = function (ammo) {
                 mods.push({

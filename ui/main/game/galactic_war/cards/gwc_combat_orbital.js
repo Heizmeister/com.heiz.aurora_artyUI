@@ -111,7 +111,8 @@ define(['shared/gw_common'], function (GW) {
                 '/pa/units/orbital/orbital_laser/orbital_laser_ammo.json',
                 '/pa/units/orbital/orbital_railgun/orbital_railgun_ammo.json',
                 '/pa/units/orbital/defense_satellite/defense_satellite_ammo_orbital.json',
-                '/pa/units/orbital/orbital_battleship/orbital_battleship_ammo_ground.json'
+                '/pa/units/orbital/orbital_battleship/orbital_battleship_ammo_ground.json',
+				'/pa/units/orbital/orbital_armageddon/orbital_armageddon_ammo.json'
             ];
             var modAmmo = function (ammo) {
                 mods.push({

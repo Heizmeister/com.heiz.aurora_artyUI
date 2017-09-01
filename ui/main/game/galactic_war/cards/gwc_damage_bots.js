@@ -38,7 +38,7 @@ define(['shared/gw_common'], function (GW) {
                 '/pa/units/land/bot_sniper/bot_sniper_ammo.json',
                 '/pa/units/land/bot_tesla/bot_tesla_ammo.json',
                 '/pa/units/land/bot_nanoswarm/bot_nanoswarm_ammo.json',
-				'/pa/units/land/bot_sun/bot_sun.json',
+				'/pa/units/land/bot_sun/bot_sun_ammo.json',
                 '/pa/units/land/bot_support_commander/bot_support_commander_ammo.json'
             ];
             var mods = [];

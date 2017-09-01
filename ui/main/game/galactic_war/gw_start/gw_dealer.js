@@ -29,7 +29,7 @@ define([
         //'gwc_enable_air_t2',
         'gwc_enable_artillery',
 		'gwc_enable_aurora',
-		//'gwc_splashradius_artillery',
+		'gwc_splashradius_artillery',
         'gwc_enable_bots_t1',
         //'gwc_enable_bots_t2',
         'gwc_enable_defenses_t2',
