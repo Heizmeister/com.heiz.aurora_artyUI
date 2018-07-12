@@ -33,7 +33,7 @@ define(['shared/gw_common'], function (GW) {
             var units = [
                 '/pa/units/land/artillery_short/artillery_short_ammo.json',
                 '/pa/units/land/artillery_long/artillery_long_ammo.json', 
-				'/pa/units/land/artillery_comet/artillery_comet_ammo.json',
+		'/pa/units/land/artillery_comet/artillery_comet_ammo.json',
                 '/pa/units/land/artillery_morningstar/artillery_morningstar_ammo.json'
             ];
             var mods = [];
