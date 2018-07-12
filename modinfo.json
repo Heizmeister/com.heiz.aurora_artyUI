@@ -11,7 +11,7 @@
 	"dependencies": [ "com.heiz.aurora_arty"],
     "author" : "Heizmeister , Mirolog",
     "version" : "1.2",
-	"build": "105067",
+	"build": "110069",
 	"priority": 10,
     "signature" : "(not yet implemented)"
 }
